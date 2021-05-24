@@ -5,9 +5,6 @@ export default function About() {
     <div>
       <section className="section about-section">
         <h1 className="section-title">about us</h1>
-        <div>
-          <img src={require("../components/cheers.png")} alt="Cheers Logo" />{" "}
-        </div>
         <p>
           CheersDB
           <span role="img" aria-label="cocktail">
